@@ -79,7 +79,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Jethro's GitHub Stats" src="https://github-readme-stats.jethro-magaji.vercel.app/api?username=jethro-magaji&show_icons=true&hide_border=true&theme=radical" />
+  <img align="left" alt="Jethro's GitHub Stats" src="https://github-readme-stats.jethro-magaji.vercel.app/api?username=jethro-magaji&show_icons=true&hide_border=true&theme=radical"/>
 
 </details>
 

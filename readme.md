@@ -70,7 +70,7 @@
 - [How to Build Your Own Private Blockchain](https://www.section.io/engineering-education/how-to-build-your-own-private-blockchain/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](hhttps://www.section.io/engineering-education/authors/jethro-magaji/)
+➡️ [more blog posts...](https://www.section.io/engineering-education/authors/jethro-magaji/)
 
 ---
 

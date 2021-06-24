@@ -1,4 +1,4 @@
-### Hi there, I'm Jethro - aka [Dr.Je][website] 👋
+### Hi there, I'm Jethro - aka [CodeJe][website] 👋
 
 [![Website](https://img.shields.io/website?label=Resume&style=for-the-badge&url=https%3A%2F%2Fgitconnected.com%2Fv1%2Fportfolio%2Fjethro-magaji)](https://gitconnected.com/v1/portfolio/jethro-magaji)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Real_Drjet?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FReal_Drjet&screen_name=Real_Drjet)

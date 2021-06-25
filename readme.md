@@ -1,7 +1,6 @@
 <h1 align="center"> Hi there, I'm Jethro - aka <a href="https://gitconnected.com/v1/portfolio/jethro-magaji">CodeJe</a> 👋</h1>
 
 [![Website](https://img.shields.io/website?label=Resume&style=for-the-badge&url=https%3A%2F%2Fgitconnected.com%2Fv1%2Fportfolio%2Fjethro-magaji)](https://gitconnected.com/v1/portfolio/jethro-magaji)
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/Real_Drjet?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FReal_Drjet&screen_name=Real_Drjet)
 
 <h1 align="center"> I'm a Ux/Ui Designer, Developer, and a Technical writer!</h1>
@@ -9,6 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jethro-magaji" alt="jethro-magaji" /></a> </p>
 
 <br />
+
 - 🔭 Read my recent article on Blockchain: [Blockchain as a Revolution in Healthcare][Article]!
 
 - 🌱 I’m currently learning everything 🤣

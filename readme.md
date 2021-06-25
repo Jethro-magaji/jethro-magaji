@@ -7,10 +7,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jethro-magaji" alt="jethro-magaji" /></a> </p>
 </br>
+
 - 🔭 Read my recent article on Blockchain: [Blockchain as a Revolution in Healthcare][Article]!
+
 - 🌱 I’m currently learning everything 🤣
+
 - 👯 I’m looking to collaborate with other developers
+
 - 🥅 2021 Goals: Contribute more to Open Source projects
+
 - ⚡ Fun fact: I love coding and writing
 
 
@@ -80,7 +85,11 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Jethro's GitHub Stats" src="https://github-readme-stats.jethro-magaji.vercel.app/api?username=jethro-magaji&show_icons=true&hide_border=true&theme=radical"/>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jethro-magaji&show_icons=true&locale=en&layout=compact" alt="jethro-magaji" /></p>
+
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jethro-magaji&show_icons=true&locale=en" alt="jethro-magaji" /></p>
+
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kashif-e&" alt="kashif-e" /></p>
 
 </details>
 

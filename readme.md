@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, I'm Jethro - aka [CodeJe][website]! 👋</h1>
+<h1 align="center"> Hi there, I'm Jethro - aka <a href="https://gitconnected.com/v1/portfolio/jethro-magaji">CodeJe</a> 👋</h1>
 
 [![Website](https://img.shields.io/website?label=Resume&style=for-the-badge&url=https%3A%2F%2Fgitconnected.com%2Fv1%2Fportfolio%2Fjethro-magaji)](https://gitconnected.com/v1/portfolio/jethro-magaji)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Real_Drjet?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FReal_Drjet&screen_name=Real_Drjet)
@@ -32,7 +32,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
+<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
 <img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/>
@@ -86,12 +86,12 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  
-  
+  <br />
+  <br />
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jethro-magaji&show_icons=true&locale=en&layout=compact" alt="jethro-magaji" /></p>
-
+  <br />
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jethro-magaji&show_icons=true&locale=en" alt="jethro-magaji" /></p>
-
+  <br />
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jethro-magaji&" alt="jethro-magaji" /></p>
 
 </details>

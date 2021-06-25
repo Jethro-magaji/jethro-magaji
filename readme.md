@@ -5,6 +5,8 @@
 
 ## I'm a Ux/Ui Designer, Developer, and a Technical writer!
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jethro-magaji" alt="jethro-magaji" /></a> </p>
+</br>
 - 🔭 Read my recent article on Blockchain: [Blockchain as a Revolution in Healthcare][Article]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers

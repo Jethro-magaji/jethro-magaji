@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=Resume&style=for-the-badge&url=https%3A%2F%2Fgitconnected.com%2Fv1%2Fportfolio%2Fjethro-magaji)](https://gitconnected.com/v1/portfolio/jethro-magaji)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Real_Drjet?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FReal_Drjet&screen_name=Real_Drjet)
 
-<h2 align="center"> I'm a Ux/Ui Designer, Developer, and a Technical writer!</h2>
+<h1 align="center"> I'm a Ux/Ui Designer, Developer, and a Technical writer!</h1>
 <br />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jethro-magaji" alt="jethro-magaji" /></a> </p>
 
@@ -20,7 +20,7 @@
 
 
 ### Connect with me:
-
+<br />
 [<img align="left" alt="gitconnected.com/porfolio/jethro-magaji" width="36px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Jethro Magaji | YouTube" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
 [<img align="left" alt="Jethro Magaji | Twitter" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -31,7 +31,7 @@
 <br />
 
 ### Languages and Tools:
-
+<br />
 <img align="left" alt="Visual Studio Code" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 <img align="left" alt="HTML5" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 <img align="left" alt="CSS3" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>

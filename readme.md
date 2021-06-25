@@ -21,7 +21,7 @@
 
 
 ### Connect with me:
-[<img align="left" alt="gitconnected.com/porfolio/jethro-magaji" width="36px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="gitconnected.com/porfolio/jethro-magaji" width="29px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Jethro Magaji | YouTube" width="29px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
 [<img align="left" alt="Jethro Magaji | Twitter" width="29px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Jethro Magaji | LinkedIn" width="29px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
